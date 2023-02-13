@@ -1,0 +1,15 @@
+J:\Study\3 C#\Семинары\Homework4\002\bin\Debug\net7.0\002.exe
+J:\Study\3 C#\Семинары\Homework4\002\bin\Debug\net7.0\002.deps.json
+J:\Study\3 C#\Семинары\Homework4\002\bin\Debug\net7.0\002.runtimeconfig.json
+J:\Study\3 C#\Семинары\Homework4\002\bin\Debug\net7.0\002.dll
+J:\Study\3 C#\Семинары\Homework4\002\bin\Debug\net7.0\002.pdb
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.csproj.AssemblyReference.cache
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.GeneratedMSBuildEditorConfig.editorconfig
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.AssemblyInfoInputs.cache
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.AssemblyInfo.cs
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.csproj.CoreCompileInputs.cache
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.dll
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\refint\002.dll
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.pdb
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\002.genruntimeconfig.cache
+J:\Study\3 C#\Семинары\Homework4\002\obj\Debug\net7.0\ref\002.dll
